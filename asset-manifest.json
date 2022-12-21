@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-movies-app/static/css/main.cafc86f4.css",
-    "main.js": "/React-movies-app/static/js/main.5bb65c36.js",
-    "static/js/787.b701888c.chunk.js": "/React-movies-app/static/js/787.b701888c.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-movies-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/React-movies-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-movies-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-movies-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-movies-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/React-movies-app/index.html",
-    "main.cafc86f4.css.map": "/React-movies-app/static/css/main.cafc86f4.css.map",
-    "main.5bb65c36.js.map": "/React-movies-app/static/js/main.5bb65c36.js.map",
-    "787.b701888c.chunk.js.map": "/React-movies-app/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/ReactMoviesApp/static/css/main.e8ab582a.css",
+    "main.js": "/ReactMoviesApp/static/js/main.15eb31ab.js",
+    "static/js/787.b701888c.chunk.js": "/ReactMoviesApp/static/js/787.b701888c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ReactMoviesApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/ReactMoviesApp/index.html",
+    "main.e8ab582a.css.map": "/ReactMoviesApp/static/css/main.e8ab582a.css.map",
+    "main.15eb31ab.js.map": "/ReactMoviesApp/static/js/main.15eb31ab.js.map",
+    "787.b701888c.chunk.js.map": "/ReactMoviesApp/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cafc86f4.css",
-    "static/js/main.5bb65c36.js"
+    "static/css/main.e8ab582a.css",
+    "static/js/main.15eb31ab.js"
   ]
 }
