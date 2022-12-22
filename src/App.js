@@ -4,7 +4,9 @@ import Movie from "./components/movies";
 function App() {
   return (
     <main className="container">
-      <h1 className="text-center bg-info container-fluid pb-3">App</h1>
+      <h1 className="text-center bg-info container-fluid pb-3">App Movies React JS.
+
+</h1>
       <Movie />
     </main>
   );
