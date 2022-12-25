@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactMoviesApp/static/css/main.e8ab582a.css",
-    "main.js": "/ReactMoviesApp/static/js/main.15eb31ab.js",
+    "main.js": "/ReactMoviesApp/static/js/main.0cf79456.js",
     "static/js/787.b701888c.chunk.js": "/ReactMoviesApp/static/js/787.b701888c.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/ReactMoviesApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ReactMoviesApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/ReactMoviesApp/index.html",
     "main.e8ab582a.css.map": "/ReactMoviesApp/static/css/main.e8ab582a.css.map",
-    "main.15eb31ab.js.map": "/ReactMoviesApp/static/js/main.15eb31ab.js.map",
+    "main.0cf79456.js.map": "/ReactMoviesApp/static/js/main.0cf79456.js.map",
     "787.b701888c.chunk.js.map": "/ReactMoviesApp/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8ab582a.css",
-    "static/js/main.15eb31ab.js"
+    "static/js/main.0cf79456.js"
   ]
 }
