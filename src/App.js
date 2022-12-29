@@ -21,10 +21,9 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="customers" element={<Customers />} />
           {/* <Route path="not-found" element={<NotFound />} /> */}
-          {/* <Redirect from="/" to="/movies" /> */}
+          <Redirect from="/" to="/movies" />
           <Route
             path="*"
-            
             element={<Navigate replace to="/movies" />}
           />
         </Routes>
