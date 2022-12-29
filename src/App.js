@@ -18,7 +18,7 @@ function App() {
         <Routes>
           <Route path="/movies" element={<Movie />} />
           <Route path="" element={<Movie />} />
-          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
           <Route path="customers" element={<Customers />} />
           {/* <Route path="not-found" element={<NotFound />} /> */}
           <Redirect from="/" to="/movies" />
