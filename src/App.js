@@ -23,7 +23,7 @@ function App() {
           {/* <Redirect from="/" to="/movies" /> */}
           <Route
             path=""
-            exact
+            
             element={<Navigate replace to="/movies" />}
           />
         </Routes>
