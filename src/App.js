@@ -24,7 +24,7 @@ function App() {
           <Route
             path="*"
             exact
-            element={<Navigate replace to="/not-found" />}
+            element={<Navigate replace to="/movies" />}
           />
         </Routes>
         <hr />
