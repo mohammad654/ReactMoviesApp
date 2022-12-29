@@ -31,6 +31,7 @@ class Counter extends Component {
             <li key={tag}>{tag}</li>
           ))}
         </ul>
+        
       </main>
     );
   }
