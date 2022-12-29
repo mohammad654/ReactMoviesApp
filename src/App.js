@@ -22,10 +22,10 @@ function App() {
           <Route path="customers" element={<Customers />} />
           {/* <Route path="not-found" element={<NotFound />} /> */}
           {/* <Redirect from="/" to="/movies" /> */}
-          <Route
+          {/* <Route
             path="*"
             element={<Navigate replace to="/movies" />}
-          />
+          /> */}
         </Routes>
         <hr />
       </div>
